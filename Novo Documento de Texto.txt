@@ -2,3 +2,4 @@ limão
 melancia
 abacate
 pera
+morango
